@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pokemon GO Wear</string>
+
+    <string name="empty_notification">No notifications</string>
+</resources>

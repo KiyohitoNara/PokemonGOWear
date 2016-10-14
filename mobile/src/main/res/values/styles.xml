@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/indigo500</item>
+        <item name="colorPrimaryDark">@color/indigo700</item>
+        <item name="colorAccent">@color/pink500</item>
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay.v14.Material</item>
+    </style>
+
+</resources>

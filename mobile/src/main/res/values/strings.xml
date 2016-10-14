@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pokemon GO Wear</string>
+
+    <string name="notification">Notification</string>
+
+    <string name="key_go_plus">key_go_plus</string>
+
+    <string name="summary_go_plus">GO Plus notification to Android Wear</string>
+</resources>
