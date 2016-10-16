@@ -57,7 +57,7 @@ public class NotificationAdapter extends FragmentGridPagerAdapter {
         mFragments.clear();
 
         for (String notification : notifications) {
-            mFragments.add(0, CardFragment.create(mContext.getString(R.string.app_name), notification));
+            mFragments.add(CardFragment.create(mContext.getString(R.string.app_name), notification));
         }
     }
 }
